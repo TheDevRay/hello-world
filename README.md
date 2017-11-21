@@ -1,1 +1,1 @@
-![MAWP](https://raw.githubusercontent.com/TheDevRay/projectname/master/mawp.gif)
+![MAWP](https://raw.githubusercontent.com/TheDevRay/hello-world/master/mawp.gif)
